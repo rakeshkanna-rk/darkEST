@@ -1,0 +1,21 @@
+{
+  "name": "darkest",
+  "displayName": "darkEST",
+  "description": "The best dark theme of visual studio code. By Rakesh Kanna",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darkEST",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darkEST-color-theme.json"
+      }
+    ]
+  }
+}
