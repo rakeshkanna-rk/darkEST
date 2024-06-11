@@ -1,8 +1,8 @@
 {
   "name": "darkest-theme",
   "displayName": "DarkEST Theme",
-  "description": "The best dark theme of visual studio code. By Rakesh Kanna",
-  "version": "0.0.1",
+  "description": "The best dark theme of Visual Studio Code. Let your eyes rest in dark out of light and bugs. By Rakesh Kanna",
+  "version": "0.0.2",
   "publisher": "RakeshKannaS",
   "engines": {
     "vscode": "^1.90.0"
@@ -22,6 +22,17 @@
     "type": "git",
     "url": "https://github.com/rakeshkanna-rk/darkest.git"
   },
+  "homepage": "https://github.com/rakeshkanna-rk/darkest",
+  "bugs": {
+    "url": "https://github.com/rakeshkanna-rk/darkest/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Rakesh Kanna S",
+    "url": "https://github.com/rakeshkanna-rk",
+    "email": "rakeshkanna0108@gmail.com"
+  },
+  "icon": "images/DarkEST-icon.png",
   "contributes": {
     "themes": [
       {

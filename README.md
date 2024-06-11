@@ -1,4 +1,4 @@
-![DarkEST Theme](./DarkEST-Banner.png)
+![DarkEST Theme](./images/DarkEST-Banner.png)
 
 
 # DarkEST Theme for Visual Studio Code
@@ -24,7 +24,7 @@ Developers can rest their eyes from light and bugs with the DarkEST theme, craft
 
 ## Theme looks
 
-![DarkEST Theme](./DarkEST-Screenshot.png)
+![DarkEST Theme](./images/DarkEST-Screenshot.png)
 
 ## Feedback
 

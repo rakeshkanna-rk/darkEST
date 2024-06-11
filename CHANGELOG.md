@@ -22,3 +22,7 @@ All notable changes to the "darkest" extension will be documented in this file.
   - Minor bugs and inconsistencies resolved to ensure smoother usage.
 - **Future Updates:**
   - Stay tuned for upcoming updates with additional features and optimizations!
+
+**DarkEST Theme v0.0.2 Changelog**
+- **General Improvements:**
+  - Updated the documentation and New Icon .
