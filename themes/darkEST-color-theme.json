@@ -792,7 +792,6 @@
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
-		  "fontStyle": "normal",
 		  "foreground": "#61afef"
 		}
 	  },
@@ -800,7 +799,6 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "fontStyle": "normal",
 		  "foreground": "#d19a66"
 		}
 	  },
@@ -847,8 +845,8 @@
 		}
 	  },
 	  {
-		"name": "markup Italic",
-		"scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
+		"name": "markup normal",
+		"scope": "markup.normal, punctuation.definition.normal,todo.emphasis",
 		"settings": {
 		  "foreground": "#cc6ce8"
 		}
@@ -1789,7 +1787,7 @@
 		"name": "Comments",
 		"scope": "comment, punctuation.definition.comment",
 		"settings": {
-		  "fontStyle": "italic",
+		  "fontStyle": "normal",
 		  "foreground": "#7f848e"
 		}
 	  },
@@ -1816,31 +1814,31 @@
 		}
 	  },
 	  {
-		"name": "js/ts italic",
+		"name": "js/ts normal",
 		"scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
 		"settings": {
-		  "fontStyle": "italic"
+		  "fontStyle": "normal"
 		}
 	  },
 	  {
 		"name": "comment",
 		"scope": "comment.line.double-slash,comment.block.documentation",
 		"settings": {
-		  "fontStyle": "italic"
+		  "fontStyle": "normal"
 		}
 	  },
 	  {
 		"name": "Python Keyword Control",
 		"scope": "keyword.control.import.python,keyword.control.flow.python",
 		"settings": {
-		  "fontStyle": "italic"
+		  "fontStyle": "normal"
 		}
 	  },
 	  {
-		"name": "markup.italic.markdown",
-		"scope": "markup.italic.markdown",
+		"name": "markup.normal.markdown",
+		"scope": "markup.normal.markdown",
 		"settings": {
-		  "fontStyle": "italic"
+		  "fontStyle": "normal"
 		}
 	  }
 	],

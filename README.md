@@ -1,3 +1,6 @@
+![DarkEST Theme](./DarkEST-Banner.png)
+
+
 # DarkEST Theme for Visual Studio Code
 
 The DarkEST theme is a visually immersive dark color scheme designed for Visual Studio Code. With deep, moody tones and customized syntax highlighting, this theme aims to provide a comfortable and aesthetically pleasing environment for coding.
