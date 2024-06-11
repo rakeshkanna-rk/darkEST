@@ -22,6 +22,10 @@ Developers can rest their eyes from light and bugs with the DarkEST theme, craft
 4. Click **Reload** to reload the editor.
 5. Navigate to **File > Preferences > Color Theme** and select **DarkEST Theme**.
 
+## Theme looks
+
+![DarkEST Theme](./DarkEST-Screenshot.png)
+
 ## Feedback
 
 If you encounter any issues or have suggestions for improvement, feel free to [open an issue](https://github.com/rakeshkanna-rk/darkEST/issues) on GitHub.

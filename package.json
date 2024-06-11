@@ -3,6 +3,7 @@
   "displayName": "darkEST",
   "description": "The best dark theme of visual studio code. By Rakesh Kanna",
   "version": "0.0.1",
+  "publisher": "RakeshKannaS",
   "engines": {
     "vscode": "^1.90.0"
   },
